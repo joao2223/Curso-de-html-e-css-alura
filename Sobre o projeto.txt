@@ -1,0 +1,1 @@
+Esse projeto cria uma página da barbearia alura. Esse código foi feito a partir das aulas de HTML e CSS da alura, o objetivo era introduzir alguns conceitos básicos, como criação de títulos, parágrafos, listas e adição de imagens.
